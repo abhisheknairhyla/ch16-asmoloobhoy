@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ch16-asmoloobhoy/static/css/main.a259dfed.css",
-    "main.js": "/ch16-asmoloobhoy/static/js/main.c4daf9ab.js",
+    "main.js": "/ch16-asmoloobhoy/static/js/main.7375095e.js",
     "index.html": "/ch16-asmoloobhoy/index.html",
     "main.a259dfed.css.map": "/ch16-asmoloobhoy/static/css/main.a259dfed.css.map",
-    "main.c4daf9ab.js.map": "/ch16-asmoloobhoy/static/js/main.c4daf9ab.js.map"
+    "main.7375095e.js.map": "/ch16-asmoloobhoy/static/js/main.7375095e.js.map"
   },
   "entrypoints": [
     "static/css/main.a259dfed.css",
-    "static/js/main.c4daf9ab.js"
+    "static/js/main.7375095e.js"
   ]
 }
